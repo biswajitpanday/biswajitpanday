@@ -1,6 +1,6 @@
 ### Biswajit Panday
 
-Software Engineer [KAZ Software](http://kaz.com.bd/) <br/>
+> Software Engineer [KAZ Software](http://kaz.com.bd/) <br/>
 
 
 <!--
