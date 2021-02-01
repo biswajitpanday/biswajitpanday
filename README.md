@@ -1,10 +1,13 @@
-### Hi there 👋
+### Biswajit Panday
+
+Software Engineer [KAZ Software](http://kaz.com.bd/) <br/>
+
 
 <!--
 **biswajitpanday/biswajitpanday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- Biswajit Panday 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
