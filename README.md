@@ -20,5 +20,10 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 
+### Frameworks & Library
+![.NET](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+
+
+
 ### My Key Projects
 [![](https://img.shields.io/badge/-🧬%20My%20Website-000)]([https://github.com/adamalston/v2](http://pandayme.herokuapp.com/))
