@@ -4,6 +4,27 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biswajitpanday&label=Profile%20views&color=0e75b6&style=flat" alt="biswajitpanday" /> </p>
 
+## Tools & Technologies
+
+### Languages
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+
+### Technologies
+
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+
+### My Key Projects
+[![](https://img.shields.io/badge/-🧬%20My%20Website-000)]([https://github.com/adamalston/v2](http://pandayme.herokuapp.com/))
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/biswajitpanday" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="biswajitpanday" height="30" width="40" /></a>
