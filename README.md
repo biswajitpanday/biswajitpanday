@@ -1,6 +1,9 @@
 [![Hi there, I'm Biswajit Panday. Software Engineer | C#, .NET Core, TypeScript, Node.js](https://github.com/biswajitpanday/biswajitpanday/raw/main/greeting.gif)](http://pandayme.herokuapp.com)
 
-###
+
+
+<img src="https://img.shields.io/badge/Find%20Me-3F3F3F?style=flat-square&logo=Iconfinder&logoColor=FFFFFF">[![LinkedIn Connect](https://img.shields.io/badge/Linkedin-211e1b?style=flat-square&logoColor=0e76a8&labelColor=211e1b&logo=linkedin)](https://www.linkedin.com/in/biswajitpanday/)[![Email Address](https://img.shields.io/badge/Mail-211e1b?style=flat-square&logoColor=EA4335&labelColor=211e1b&logo=gmail)](mailto:biswajitmailid@gmail.com)[![Portfolio](https://img.shields.io/badge/Portfolio-211e1b?style=flat-square&logoColor=FF5722&labelColor=211e1b&logo=blogger)](http://pandayme.herokuapp.com/)[![HackerRank](https://img.shields.io/badge/HackerRank-211e1b?style=flat-square&logoColor=00EA64&labelColor=211e1b&logo=HackerRank)](http://pandayme.herokuapp.com/)[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-211e1b?style=flat-square&logoColor=F58025&labelColor=211e1b&logo=Stack-Overflow)](https://stackoverflow.com/users/2923956/biswajit-panday)[![LeetCode](https://img.shields.io/badge/LeetCode-211e1b?style=flat-square&logoColor=FFA116&labelColor=211e1b&logo=LeetCode)](https://leetcode.com/biswajitmailid/)
+---
 
 <img src="https://img.shields.io/badge/Languages-3F3F3F?style=flat-square&logo=plex&logoColor=FFFFFF">![badge-c#](https://img.shields.io/badge/C%23-211e1b?style=flat-square&logo=c-sharp&logoColor=22C4E1&labelColor=211e1b)![badge-javascript](https://img.shields.io/badge/JavaScript-211e1b?style=flat-square&logo=JavaScript&logoColor=22C4E1&labelColor=211e1b)![badge-typescript](https://img.shields.io/badge/typescript-211e1b?style=flat-square&logo=typescript&logoColor=22C4E1&labelColor=211e1b)![badge-sql](https://img.shields.io/badge/sql-211e1b?style=flat-square&logo=microsoft-sql-server&logoColor=22C4E1&labelColor=211e1b)![badge-shell](https://img.shields.io/badge/Shell-211e1b?style=flat-square&logo=gnu-bash&logoColor=22C4E1&labelColor=211e1b) <br/>
 <img src="https://img.shields.io/badge/Backend-3F3F3F?style=flat-square&logo=Serverless&logoColor=FFFFFF">![badge-c#](https://img.shields.io/badge/C%23-211e1b?style=flat-square&logo=c-sharp&logoColor=22C4E1&labelColor=211e1b)![badge-dotnet](https://img.shields.io/badge/.Net-211e1b?style=flat-square&logo=.net&logoColor=22C4E1&labelColor=211e1b)![badge-dotnet6](https://img.shields.io/badge/.NET%206-211e1b?style=flat-square&logo=.net&logoColor=22C4E1&labelColor=211e1b)![badge-dotnetcore](https://img.shields.io/badge/.NET%20Core-211e1b?style=flat-square&logo=.net&logoColor=22C4E1&labelColor=211e1b)![badge-aspdotnetmvc](https://img.shields.io/badge/ASP.NET%20MVC-211e1b?style=flat-square&logo=.net&logoColor=22C4E1&labelColor=211e1b)![badge-nodejs](https://img.shields.io/badge/Node.Js-211e1b?style=flat-square&logo=node.js&logoColor=22C4E1&labelColor=211e1b)![badge-express](https://img.shields.io/badge/EpressJS-211e1b?style=flat-square&logo=express&logoColor=22C4E1&labelColor=211e1b)![badge-hapi](https://img.shields.io/badge/hapi-211e1b?style=flat-square&logoColor=22C4E1&labelColor=211e1b)<br/>
@@ -11,10 +14,10 @@
 <img src="https://img.shields.io/badge/CLOUD%20SERVICES-3F3F3F?style=flat-square&logo=iCloud&logoColor=FFFFFF">![badge-aws](https://img.shields.io/badge/Amazon%20web%20services-211e1b?style=flat-square&logo=Amazon-AWS&logoColor=22C4E1&labelColor=211e1b)![badge-azure](https://img.shields.io/badge/Azure-211e1b?style=flat-square&logo=Microsoft-Azure&logoColor=22C4E1&labelColor=211e1b)![badge-firebase](https://img.shields.io/badge/Firebase-211e1b?style=flat-square&logo=Firebase&logoColor=22C4E1&labelColor=211e1b)<br />
 <img src="https://img.shields.io/badge/ORM/ODM-3F3F3F?style=flat-square&logo=iCloud&logoColor=FFFFFF">![badge-ef](https://img.shields.io/badge/Entity%20Framework-211e1b?style=flat-square&labelColor=211e1b)![badge-typeorm](https://img.shields.io/badge/TypeORM-211e1b?style=flat-square&labelColor=211e1b)![badge-mongoose](https://img.shields.io/badge/Mongoose-211e1b?style=flat-square&labelColor=211e1b)
 
-
-### My Key Projects
-[![](https://img.shields.io/badge/-🧬%20My%20Website-000)]([https://github.com/adamalston/v2](http://pandayme.herokuapp.com/))
+---
 
 <a href="https://trackgit.com">
 <img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/l4ad9a7gxba5hwgraepl" alt="trackgit-views" />
 </a>
+
+---
