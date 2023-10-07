@@ -11,6 +11,12 @@
 <img src="https://img.shields.io/badge/CLOUD%20SERVICES-3F3F3F?style=flat-square&logo=iCloud&logoColor=FFFFFF">![badge-aws](https://img.shields.io/badge/Amazon%20web%20services-211e1b?style=flat-square&logo=Amazon-AWS&logoColor=22C4E1&labelColor=211e1b)![badge-azure](https://img.shields.io/badge/Azure-211e1b?style=flat-square&logo=Microsoft-Azure&logoColor=22C4E1&labelColor=211e1b)![badge-firebase](https://img.shields.io/badge/Firebase-211e1b?style=flat-square&logo=Firebase&logoColor=22C4E1&labelColor=211e1b)<br />
 <img src="https://img.shields.io/badge/ORM/ODM-3F3F3F?style=flat-square&logo=iCloud&logoColor=FFFFFF">![badge-ef](https://img.shields.io/badge/Entity%20Framework-211e1b?style=flat-square&labelColor=211e1b)![badge-typeorm](https://img.shields.io/badge/TypeORM-211e1b?style=flat-square&labelColor=211e1b)![badge-mongoose](https://img.shields.io/badge/Mongoose-211e1b?style=flat-square&labelColor=211e1b)
 ---
+
+## 𝗦𝘁𝗮𝘁𝘀
+
+![elfocrash's github stats](https://github-readme-stats.vercel.app/api?username=biswajitpanday&show_icons=true&theme=dracula)
+
+
 <a href="https://trackgit.com">
 <img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/l4ad9a7gxba5hwgraepl" alt="trackgit-views" />
 </a>
