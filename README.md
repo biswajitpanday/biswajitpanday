@@ -12,7 +12,6 @@
 <img src="https://img.shields.io/badge/ORM/ODM-3F3F3F?style=flat-square&logo=iCloud&logoColor=FFFFFF">![badge-ef](https://img.shields.io/badge/Entity%20Framework-211e1b?style=flat-square&labelColor=211e1b)![badge-typeorm](https://img.shields.io/badge/TypeORM-211e1b?style=flat-square&labelColor=211e1b)![badge-mongoose](https://img.shields.io/badge/Mongoose-211e1b?style=flat-square&labelColor=211e1b)
 ---
 
-## 𝗦𝘁𝗮𝘁𝘀
 
 ![biswajitpanday's github stats](https://github-readme-stats.vercel.app/api?username=biswajitpanday&show_icons=true&theme=dracula)
 
