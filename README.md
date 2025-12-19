@@ -7,7 +7,7 @@ I design scalable .NET platforms with AI-driven automation that reduce cycle tim
 [![Portfolio](https://img.shields.io/badge/Portfolio-0ea5e9?style=flat&logo=safari&logoColor=white)](https://biswajitpanday.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/biswajitpanday)
 [![Email](https://img.shields.io/badge/Email-ea4335?style=flat&logo=gmail&logoColor=white)](mailto:biswajitmailid@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-00a67e?style=flat&logo=readthedocs&logoColor=white)](https://biswajitpanday.github.io/assets/Biswajit_Panday_Resume.Net.pdf)
+[![Resume](https://img.shields.io/badge/Resume-00a67e?style=flat&logo=readthedocs&logoColor=white)](https://biswajitpanday.github.io/assets/Biswajit_Panday_Resume.pdf)
 
 ---
 
