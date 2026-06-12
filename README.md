@@ -112,7 +112,6 @@ Enterprise clients        |  20+ delivered projects      |  B.Sc. CSE · Fluent 
         <img src="https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoftazure&logoColor=white" alt="Azure">
         <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS">
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
-        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="K8s">
         <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GHA">
         <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white" alt="ADO">
       </td>
@@ -146,9 +145,10 @@ Enterprise clients        |  20+ delivered projects      |  B.Sc. CSE · Fluent 
 
 ## Featured Work
 
-**[SpireWiz](https://biswajitpanday.github.io/projects)** · AI automation tool saving $180K annually </br>
-**[@strix-ai/currentdt-mcp](https://www.npmjs.com/package/@strix-ai/currentdt-mcp)** · NPM package featured on LobeHub </br>
-**[Portfolio](https://biswajitpanday.github.io/)** · Next.js 15, React 19, Gemini AI (95+ Lighthouse)
+- **[DevSpace](https://biswajitpanday.github.io/devspace/)** — free Windows desktop app that centralizes developer projects, tools, credentials & git in one dashboard. Electron + .NET 9, React 18; Clean Architecture, 700+ automated tests. Co-developed.
+- **[SpireWiz](https://biswajitpanday.github.io/projects)** — AI upgrade-automation tool; ~80% faster delivery, ~$180K annual impact across 25+ enterprise clients
+- **[@strix-ai/currentdt-mcp](https://www.npmjs.com/package/@strix-ai/currentdt-mcp)** — published NPM MCP package for AI assistants (featured on LobeHub)
+- **[Portfolio](https://biswajitpanday.github.io/)** — Next.js 15 / React 19 with a Gemini 3 Flash chatbot (95+ Lighthouse)
 
 ---
 
