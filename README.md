@@ -14,7 +14,7 @@ I design scalable .NET platforms with AI-driven automation that reduce cycle tim
 ## Quick Snapshot
 
 ```
-10+ years .NET/Cloud      |  $180K AI automation impact  |  Microsoft Azure Certified
+11 years.NET/Cloud      |  $180K AI automation impact  |  Microsoft Azure Certified
 Enterprise clients        |  20+ delivered projects      |  B.Sc. CSE · Fluent English
 ```
 
