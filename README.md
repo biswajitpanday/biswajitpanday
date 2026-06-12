@@ -1,6 +1,6 @@
 # Biswajit Panday
 
-**Senior .NET Architect & AI Solutions Engineer**
+**Senior .NET Developer & AI Solutions Engineer**
 
 I design scalable .NET platforms with AI-driven automation that reduce cycle time and TCO.
 
@@ -154,5 +154,6 @@ Enterprise clients        |  20+ delivered projects      |  B.Sc. CSE · Fluent 
 
 ## Availability
 
-Open to remote work · Relocation ready · Requires visa sponsorship </br>
+Based in **Cottbus, Germany** · open to roles across Germany — on-site, hybrid, or remote · **available immediately, no visa sponsorship required**
+
 Contact: biswajitmailid@gmail.com · [LinkedIn](https://linkedin.com/in/biswajitpanday)
