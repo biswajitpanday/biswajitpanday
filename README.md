@@ -24,7 +24,7 @@ Enterprise clients        |  20+ delivered projects      |  B.Sc. CSE · Fluent 
   <table border="0">
     <tr>
       <td align="center" width="250" style="background: linear-gradient(135deg, #1e293b, #0f172a); border-radius: 15px; padding: 20px; border: 1px solid #334155;">
-        <h3 style="color: #38bdf8; margin: 0;">75% Faster</h3>
+        <h3 style="color: #38bdf8; margin: 0;">~80% Faster</h3>
         <p style="color: #94a3b8; font-size: 13px;">AI automation reduced manual dev time from <b>32h to 8h</b>.</p>
       </td>
       <td width="10"></td> <td align="center" width="250" style="background: linear-gradient(135deg, #1e293b, #0f172a); border-radius: 15px; padding: 20px; border: 1px solid #334155;">
