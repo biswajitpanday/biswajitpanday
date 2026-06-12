@@ -41,20 +41,6 @@ Enterprise clients        |  20+ delivered projects      |  B.Sc. CSE · Fluent 
 
 ---
 
-## Areas of Expertise
-
-<table>
-<tr><td width="300px" ><b>.NET & C# Development</b></td><td style="display: flex; align-items: center; justify-content: center"><img src="https://geps.dev/progress/95?dangerColor=512BD4&warningColor=512BD4&successColor=512BD4" width="200px" height="20px" /> &nbsp; &nbsp; &nbsp; &nbsp; <b>95%</b></td></tr>
-<tr><td width="300px"><b>Cloud Architecture (AWS/Azure)</b></td><td><img src="https://geps.dev/progress/85?dangerColor=0078D4&warningColor=0078D4&successColor=0078D4" width="200px" height="20px" /> &nbsp; &nbsp; &nbsp; &nbsp; <b>85%</b></td></tr>
-<tr><td width="300px"><b>Microservices & APIs</b></td><td><img src="https://geps.dev/progress/90?dangerColor=512BD4&warningColor=512BD4&successColor=512BD4" width="200px" height="20px" /> &nbsp; &nbsp; &nbsp; &nbsp; <b>90%</b></td></tr>
-<tr><td width="300px"><b>Modern Frontend (React/TS)</b></td><td><img src="https://geps.dev/progress/80?dangerColor=61DAFB&warningColor=61DAFB&successColor=61DAFB" width="200px" height="20px" /> &nbsp; &nbsp; &nbsp; &nbsp; <b>80%</b></td></tr>
-<tr><td width="300px"><b>AI Integration & Automation</b></td><td><img src="https://geps.dev/progress/75?dangerColor=8E75B2&warningColor=8E75B2&successColor=8E75B2" width="200px" height="20px"/> &nbsp; &nbsp; &nbsp; &nbsp; <b>75%</b></td></tr>
-<tr><td width="300px"><b>DevOps & CI/CD</b></td><td><img src="https://geps.dev/progress/78?dangerColor=2496ED&warningColor=2496ED&successColor=2496ED" width="200px" height="20px" /> &nbsp; &nbsp; &nbsp; &nbsp; <b>78%</b></td></tr>
-<tr><td width="300px"><b>Team Leadership & Mentoring</b></td><td><img src="https://geps.dev/progress/82?dangerColor=00897B&warningColor=00897B&successColor=00897B" width="200px" height="20px" /> &nbsp; &nbsp; &nbsp; &nbsp; <b>82%</b></td></tr>
-</table>
-
----
-
 ## Tech Stack
 
 <table border-collapse: collapse;">
