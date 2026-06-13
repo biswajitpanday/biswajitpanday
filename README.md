@@ -24,16 +24,16 @@ Enterprise clients        |  20+ delivered projects      |  B.Sc. CSE · Fluent 
   <table border="0">
     <tr>
       <td align="center" width="250" style="background: linear-gradient(135deg, #1e293b, #0f172a); border-radius: 15px; padding: 20px; border: 1px solid #334155;">
-        <h3 style="color: #38bdf8; margin: 0;">~80% Faster</h3>
-        <p style="color: #94a3b8; font-size: 13px;">AI automation reduced manual dev time from <b>32h to 8h</b>.</p>
+        <h3 style="color: #38bdf8; margin: 0;">~80% Faster Delivery</h3>
+        <p style="color: #94a3b8; font-size: 13px;">SpireWiz AI automation cut enterprise upgrade cycles, reclaiming <b>600+ dev hours/year (~$180K value)</b></p>
       </td>
       <td width="10"></td> <td align="center" width="250" style="background: linear-gradient(135deg, #1e293b, #0f172a); border-radius: 15px; padding: 20px; border: 1px solid #334155;">
-        <h3 style="color: #818cf8; margin: 0;">5+ Migrations</h3>
-        <p style="color: #94a3b8; font-size: 13px;">Led enterprise migrations with <b>significant cost reduction</b>.</p>
+        <h3 style="color: #818cf8; margin: 0;">Shipped DevSpace</h3>
+        <p style="color: #94a3b8; font-size: 13px;">Built & Released a Windows developer-productivity app</p>
       </td>
       <td width="10"></td> <td align="center" width="250" style="background: linear-gradient(135deg, #1e293b, #0f172a); border-radius: 15px; padding: 20px; border: 1px solid #334155;">
-        <h3 style="color: #c084fc; margin: 0;">100+ Reviews</h3>
-        <p style="color: #94a3b8; font-size: 13px;">Ensured quality across <b>20+ enterprise-scale</b> projects.</p>
+        <h3 style="color: #c084fc; margin: 0;">Enterprise Migrations</h3>
+        <p style="color: #94a3b8; font-size: 13px;">Led legacy-to-cloud moves (Azure/AWS) with significant cost reduction</p>
       </td>
     </tr>
   </table>
