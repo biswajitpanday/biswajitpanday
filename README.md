@@ -140,6 +140,6 @@ Enterprise clients        |  20+ delivered projects      |  B.Sc. CSE · Fluent 
 
 ## Availability
 
-Based in **Cottbus, Germany** · open to roles across Germany — on-site, hybrid, or remote · **available immediately, no visa sponsorship required**
+Based in **Berlin, Germany** · open to roles across Germany — on-site, hybrid, or remote · **Authorized to work in Germany, Available immediately**
 
 Contact: biswajitmailid@gmail.com · [LinkedIn](https://linkedin.com/in/biswajitpanday)
