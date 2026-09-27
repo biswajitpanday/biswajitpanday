@@ -20,7 +20,7 @@
 
 ### Featured work
 
-**[DevSpace](https://biswajitpanday.github.io/devspace/)** &nbsp;·&nbsp; A Windows app that gives developers one dashboard for their projects, tools, credentials and git workflow. It finds 100+ installed tools in under 3 seconds and encrypts each project's credentials with the ASP.NET Core Data Protection API. Co-developed; in public preview.
+**[DevSpace](https://biswajitpanday.github.io/devspace/)** &nbsp;·&nbsp; A Windows app that gives developers one dashboard for their projects, tools, credentials and git workflow. It finds 100+ installed tools in under 3 seconds and encrypts each project's credentials with the ASP.NET Core Data Protection API. In public preview.
 `.NET 9` `ASP.NET Core` `Electron` `React 18` `TypeScript`
 
 **[SpireWiz](https://biswajitpanday.github.io/projects)** &nbsp;·&nbsp; Co-engineered at Optimizely: an upgrade-automation tool for Configured Commerce. A three-way merge resolves conflicts first; the OpenAI APIs settle only what the merge cannot, for a developer to review. Up to 80% shorter upgrade cycles across 25+ enterprise clients.
@@ -65,8 +65,6 @@
 
 ### More on GitHub
 
-· [BugBusters](https://github.com/biswajitpanday/BugBusters) — Clean Architecture Q&A platform, .NET 7 + React 18 
-
-· [EmailEngine](https://github.com/biswajitpanday/EmailEngine) — Outlook → Elasticsearch sync via Microsoft Graph webhooks 
-
-· [ProtoCore.NET](https://github.com/biswajitpanday/ProtoCore.NET) — code-first gRPC boilerplate for .NET 7
+[BugBusters](https://github.com/biswajitpanday/BugBusters) — Clean Architecture Q&A platform, .NET 7 + React 18 ·
+[EmailEngine](https://github.com/biswajitpanday/EmailEngine) — Outlook → Elasticsearch sync via Microsoft Graph webhooks ·
+[ProtoCore.NET](https://github.com/biswajitpanday/ProtoCore.NET) — code-first gRPC boilerplate for .NET 7
