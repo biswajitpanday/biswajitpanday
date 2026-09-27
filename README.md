@@ -65,6 +65,8 @@
 
 ### More on GitHub
 
-[BugBusters](https://github.com/biswajitpanday/BugBusters) — Clean Architecture Q&A platform, .NET 7 + React 18 ·
-[EmailEngine](https://github.com/biswajitpanday/EmailEngine) — Outlook → Elasticsearch sync via Microsoft Graph webhooks ·
-[ProtoCore.NET](https://github.com/biswajitpanday/ProtoCore.NET) — code-first gRPC boilerplate for .NET 7
+· [BugBusters](https://github.com/biswajitpanday/BugBusters) — Clean Architecture Q&A platform, .NET 7 + React 18 
+
+· [EmailEngine](https://github.com/biswajitpanday/EmailEngine) — Outlook → Elasticsearch sync via Microsoft Graph webhooks 
+
+· [ProtoCore.NET](https://github.com/biswajitpanday/ProtoCore.NET) — code-first gRPC boilerplate for .NET 7
