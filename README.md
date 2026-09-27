@@ -1,145 +1,70 @@
-# Biswajit Panday
+<h1 align="center">Biswajit Panday</h1>
 
-**Senior .NET Developer & AI Solutions Engineer**
+<p align="center">
+  <b>Senior Backend Engineer · Full-Stack</b><br>
+  C#/.NET · TypeScript/Node.js · AI/LLM Integration<br>
+  I build backend systems in ASP.NET Core and Node.js and ship LLM features on top of them.<br>
+  11 years in software, a decade of it in C# and .NET · Berlin, Germany
+</p>
 
-I design scalable .NET platforms with AI-driven automation that reduce cycle time and TCO.
+<p align="center">
+  <a href="https://biswajitpanday.github.io/"><img src="https://img.shields.io/badge/Portfolio-biswajitpanday.github.io-0ea5e9?style=flat-square" alt="Portfolio"></a>
+  <a href="https://linkedin.com/in/biswajitpanday"><img src="https://img.shields.io/badge/LinkedIn-biswajitpanday-0077b5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:biswajitmailid@gmail.com"><img src="https://img.shields.io/badge/Email-biswajitmailid@gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://biswajitpanday.github.io/assets/Biswajit_Panday_Resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-00a67e?style=flat-square" alt="Resume"></a>
+</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0ea5e9?style=flat&logo=safari&logoColor=white)](https://biswajitpanday.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/biswajitpanday)
-[![Email](https://img.shields.io/badge/Email-ea4335?style=flat&logo=gmail&logoColor=white)](mailto:biswajitmailid@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-00a67e?style=flat&logo=readthedocs&logoColor=white)](https://biswajitpanday.github.io/assets/Biswajit_Panday_Resume.pdf)
-
----
-
-## Quick Snapshot
-
-```
-11 years .NET/Cloud       |  $180K AI automation impact  |  Microsoft Azure Certified
-Enterprise clients        |  20+ delivered projects      |  B.Sc. CSE · Fluent English
-```
-
-**Key Impact:** 
----
-<div align="left">
-  <table border="0">
-    <tr>
-      <td align="center" width="250" style="background: linear-gradient(135deg, #1e293b, #0f172a); border-radius: 15px; padding: 20px; border: 1px solid #334155;">
-        <h3 style="color: #38bdf8; margin: 0;">~80% Faster Delivery</h3>
-        <p style="color: #94a3b8; font-size: 13px;">SpireWiz AI automation cut enterprise upgrade cycles, reclaiming <b>600+ dev hours/year (~$180K value)</b></p>
-      </td>
-      <td width="10"></td> <td align="center" width="250" style="background: linear-gradient(135deg, #1e293b, #0f172a); border-radius: 15px; padding: 20px; border: 1px solid #334155;">
-        <h3 style="color: #818cf8; margin: 0;">Shipped DevSpace</h3>
-        <p style="color: #94a3b8; font-size: 13px;">Built & Released a Windows developer-productivity app</p>
-      </td>
-      <td width="10"></td> <td align="center" width="250" style="background: linear-gradient(135deg, #1e293b, #0f172a); border-radius: 15px; padding: 20px; border: 1px solid #334155;">
-        <h3 style="color: #c084fc; margin: 0;">Enterprise Migrations</h3>
-        <p style="color: #94a3b8; font-size: 13px;">Led legacy-to-cloud moves (Azure/AWS) with significant cost reduction</p>
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center"><b>Open to senior backend, full-stack and AI-integration roles across Germany</b> — on-site, hybrid or remote · authorized to work in Germany, available immediately</p>
 
 ---
 
-## Tech Stack
+### Featured work
 
-<table border-collapse: collapse;">
-  <thead>
-    <tr>
-      <th align="left" font-weight: bold">Category</th>
-      <th align="left" font-weight: bold">Technologies</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr align="left">
-      <td valign="middle" width="200">
-        Backend & APIs
-      </td>
-      <td valign="middle">
-        <img src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white" alt="C#">
-        <img src="https://img.shields.io/badge/.NET_9-512BD4?style=flat&logo=dotnet&logoColor=white" alt=".NET">
-        <img src="https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=flat&logo=.net&logoColor=white" alt="ASP.NET">
-        <img src="https://img.shields.io/badge/EF%20Core-004880?style=flat&logo=microsoftsqlserver&logoColor=white" alt="EF Core">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js">
-        <img src="https://img.shields.io/badge/REST_APIs-009688?style=flat&logo=postman&logoColor=white" alt="REST">
-      </td>
-    </tr>
-    <tr>
-      <td valign="middle">
-        Modern Frontend
-      </td>
-      <td valign="middle">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React">
-        <img src="https://img.shields.io/badge/Next.js_15-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js">
-        <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" alt="Redux">
-        <img src="https://img.shields.io/badge/TypeScript_5-3178C6?style=flat&logo=typescript&logoColor=white" alt="TS">
-        <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" alt="Angular">
-        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind">
-      </td>
-    </tr>
-    <tr>
-      <td valign="middle">
-        AI & Automation
-      </td>
-      <td valign="middle">
-        <img src="https://img.shields.io/badge/GPT--4o-412991?style=flat&logo=openai&logoColor=white" alt="GPT-4">
-        <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white" alt="Gemini">
-        <img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white" alt="Claude">
-        <img src="https://img.shields.io/badge/MCP-333333?style=flat&logo=serverless&logoColor=white" alt="MCP">
-        <img src="https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white" alt="Cursor">
-        <img src="https://img.shields.io/badge/AI%20Agent-10B981?style=flat&logo=robotframework&logoColor=white" alt="Agent">
-      </td>
-    </tr>
-    <tr>
-      <td valign="middle">
-        Cloud & DevOps
-      </td>
-      <td valign="middle">
-        <img src="https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoftazure&logoColor=white" alt="Azure">
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS">
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
-        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GHA">
-        <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white" alt="ADO">
-      </td>
-    </tr>
-    <tr>
-      <td valign="middle">
-        Data & Storage
-      </td>
-      <td valign="middle">
-        <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" alt="MSSQL">
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="Mongo">
-        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="Postgres">
-        <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white" alt="Dynamo">
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis">
-      </td>
-    </tr>
-    <tr>
-      <td valign="middle">
-        Architecture/Patterns
-      </td>
-      <td valign="middle">
-        <img src="https://img.shields.io/badge/DDD-0066CC?style=flat&logo=diagram-project&logoColor=white" alt="DDD">
-        <img src="https://img.shields.io/badge/Clean_Architecture-00897B?style=flat&logo=stackblitz&logoColor=white" alt="Clean">
-        <img src="https://img.shields.io/badge/Microservices-FF6F00?style=flat&logo=hive&logoColor=white" alt="Microservices">
-        <img src="https://img.shields.io/badge/CQRS-7E57C2?style=flat&logo=target&logoColor=white" alt="CQRS">
-        <img src="https://img.shields.io/badge/Event_Driven-E91E63?style=flat&logo=apache-pulsar&logoColor=white" alt="EDA">
-      </td>
-    </tr>
-  </tbody>
-</table>
+**[DevSpace](https://biswajitpanday.github.io/devspace/)** &nbsp;·&nbsp; A Windows app that gives developers one dashboard for their projects, tools, credentials and git workflow. It finds 100+ installed tools in under 3 seconds and encrypts each project's credentials with the ASP.NET Core Data Protection API. Co-developed; in public preview.
+`.NET 9` `ASP.NET Core` `Electron` `React 18` `TypeScript`
 
-## Featured Work
+**[SpireWiz](https://biswajitpanday.github.io/projects)** &nbsp;·&nbsp; Co-engineered at Optimizely: an upgrade-automation tool for Configured Commerce. A three-way merge resolves conflicts first; the OpenAI APIs settle only what the merge cannot, for a developer to review. Up to 80% shorter upgrade cycles across 25+ enterprise clients.
+`Python` `OpenAI Platform APIs` `git three-way merge`
 
-- **[DevSpace](https://biswajitpanday.github.io/devspace/)** — free Windows desktop app that centralizes developer projects, tools, credentials & git in one dashboard. Electron + .NET 9, React 18; Clean Architecture, 700+ automated tests. Co-developed.
-- **[SpireWiz](https://biswajitpanday.github.io/projects)** — AI upgrade-automation tool; ~80% faster delivery, ~$180K annual impact across 25+ enterprise clients
-- **[@strix-ai/currentdt-mcp](https://www.npmjs.com/package/@strix-ai/currentdt-mcp)** — published NPM MCP package for AI assistants (featured on LobeHub)
-- **[Portfolio](https://biswajitpanday.github.io/)** — Next.js 15 / React 19 with a Gemini 3 Flash chatbot (95+ Lighthouse)
+**[@strix-ai/currentdt-mcp](https://www.npmjs.com/package/@strix-ai/currentdt-mcp)** &nbsp;·&nbsp; A co-authored open-source MCP server that gives AI assistants like Cursor, Claude and VS Code real-time date and time. Published to npm; listed on the LobeHub and MSeep MCP registries.
+`TypeScript` `Node.js` `MCP`
+
+**[HyperCache](https://github.com/biswajitpanday/HyperCache)** &nbsp;·&nbsp; An open-source reference implementation of SQL Server change-tracking (Delta) caching: repeat queries on a 1M-row table drop from ~3.6 s to single-digit milliseconds.
+`.NET 9` `EF Core 9` `SQL Server` `Blazor`
 
 ---
 
-## Availability
+### Impact
 
-Based in **Berlin, Germany** · open to roles across Germany — on-site, hybrid, or remote · **Authorized to work in Germany, Available immediately**
+| Work | Before | After |
+|---|---|---|
+| Reganalytics: legacy platform → ASP.NET Core microservices | ~2.5 s API responses | **~280 ms** (~9x faster) |
+| Robi: 40+ .NET services on 9+ Linux servers | 6–8 hour deployments | **under 1 hour** |
+| SpireWiz: Configured Commerce upgrades | manual three-way merges | **up to 80% shorter**, an estimated 600+ developer hours saved a year, ~$180K projected annual value |
 
-Contact: biswajitmailid@gmail.com · [LinkedIn](https://linkedin.com/in/biswajitpanday)
+---
+
+### Stack
+
+| | |
+|---|---|
+| **Backend** | C# · .NET · ASP.NET Core · EF Core · Node.js · REST APIs |
+| **AI & LLM** | OpenAI Platform APIs · Google Gemini · MCP · RAG · Claude Code · Cursor · GitHub Copilot |
+| **Frontend** | React · Angular · TypeScript · Next.js · Redux · Tailwind CSS |
+| **Cloud & DevOps** | Azure · AWS (Lambda, DynamoDB, S3) · Docker · GitHub Actions · Azure DevOps |
+| **Data** | SQL Server · PostgreSQL · MongoDB · Redis · Elasticsearch |
+| **Architecture** | Microservices · Clean Architecture · Serverless |
+
+---
+
+### Certifications
+
+- **Microsoft Certified: Azure Fundamentals** · [verify](https://learn.microsoft.com/api/credentials/share/en-us/biswajitpanday/733CAA4F32A38510)
+- **Optimizely Opal Tools Certified 2025** · [verify](https://www.credly.com/badges/b23ab92f-617a-4b29-979d-2567bd16ec70/public_url)
+- **Optimizely Opal Certified Administrator 2025** · [verify](https://www.credly.com/badges/03017104-c364-41de-a2d5-6cd05e8bd9a0/public_url)
+
+### More on GitHub
+
+[BugBusters](https://github.com/biswajitpanday/BugBusters) — Clean Architecture Q&A platform, .NET 7 + React 18 ·
+[EmailEngine](https://github.com/biswajitpanday/EmailEngine) — Outlook → Elasticsearch sync via Microsoft Graph webhooks ·
+[ProtoCore.NET](https://github.com/biswajitpanday/ProtoCore.NET) — code-first gRPC boilerplate for .NET 7
