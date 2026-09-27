@@ -20,7 +20,7 @@
 
 ### Featured work
 
-**[DevSpace](https://biswajitpanday.github.io/devspace/)** &nbsp;·&nbsp; A Windows app that gives developers one dashboard for their projects, tools and credentials, with a built-in visual Git client. It finds 100+ installed tools in under 3 seconds and encrypts each project's credentials with the ASP.NET Core Data Protection API. In public preview.
+**[DevSpace](https://biswajitpanday.github.io/devspace/)** &nbsp;·&nbsp; A Windows app for developers who juggle several projects a day: each project keeps its own tools (one click each, reusable as templates), credentials and a built-in visual Git client, so switching takes a click instead of a setup ritual. It finds 100+ installed tools in under 3 seconds and encrypts each project's credentials with the ASP.NET Core Data Protection API. In public preview.
 `.NET 9` `ASP.NET Core` `Electron` `React 18` `TypeScript` `Git`
 
 **[SpireWiz](https://biswajitpanday.github.io/projects)** &nbsp;·&nbsp; Co-engineered at Optimizely: an upgrade-automation tool for Configured Commerce. A three-way merge resolves conflicts first; the OpenAI APIs settle only what the merge cannot, for a developer to review. Up to 80% shorter upgrade cycles across 25+ enterprise clients.
