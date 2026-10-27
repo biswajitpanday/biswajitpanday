@@ -14,7 +14,7 @@
   <a href="https://biswajitpanday.github.io/assets/Biswajit_Panday_Resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-00a67e?style=flat-square" alt="Resume"></a>
 </p>
 
-<p align="center"><b>Open to senior backend, full-stack and AI-integration roles across Germany</b> — on-site, hybrid or remote · authorized to work in Germany, available immediately</p>
+<p align="center"><b>Open to senior backend, full-stack and AI-integration roles across Germany</b>: on-site, hybrid or remote · authorized to work in Germany, available immediately</p>
 
 ---
 
@@ -22,6 +22,9 @@
 
 **[DevSpace](https://biswajitpanday.github.io/devspace/)** &nbsp;·&nbsp; A Windows app for developers who juggle several projects a day: each project keeps its own tools (one click each, reusable as templates), credentials and a built-in visual Git client, so switching takes a click instead of a setup ritual. It finds 100+ installed tools in under 3 seconds and encrypts each project's credentials with the ASP.NET Core Data Protection API. In public preview.
 `.NET 9` `ASP.NET Core` `Electron` `React 18` `TypeScript` `Git`
+
+**[Keyra](https://biswajitpanday.github.io/keyra/)** &nbsp;·&nbsp; A small, offline password vault for Windows: everything lives in one encrypted file on your own PC (Argon2id + AES-256-GCM, header authenticated), with no account, no cloud and no network code. Opt-in Windows Hello unlock, a self-clearing clipboard, and a written threat model of 26 threats that says what it cannot protect against. Designed by me, coded with Claude Code under security rules it must follow. Free for personal use ([releases](https://github.com/biswajitpanday/keyra-releases)).
+`.NET 10` `WPF` `C#` `Argon2id` `AES-256-GCM` `Claude Code`
 
 **[SpireWiz](https://biswajitpanday.github.io/projects)** &nbsp;·&nbsp; Co-engineered at Optimizely: an upgrade-automation tool for Configured Commerce. A three-way merge resolves conflicts first; the OpenAI APIs settle only what the merge cannot, for a developer to review. Up to 80% shorter upgrade cycles across 25+ enterprise clients.
 `Python` `OpenAI Platform APIs` `git three-way merge`
@@ -65,6 +68,6 @@
 
 ### More on GitHub
 
-[BugBusters](https://github.com/biswajitpanday/BugBusters) — Clean Architecture Q&A platform, .NET 7 + React 18 ·
-[EmailEngine](https://github.com/biswajitpanday/EmailEngine) — Outlook → Elasticsearch sync via Microsoft Graph webhooks ·
-[ProtoCore.NET](https://github.com/biswajitpanday/ProtoCore.NET) — code-first gRPC boilerplate for .NET 7
+[BugBusters](https://github.com/biswajitpanday/BugBusters): Clean Architecture Q&A platform, .NET 7 + React 18 ·
+[EmailEngine](https://github.com/biswajitpanday/EmailEngine): Outlook → Elasticsearch sync via Microsoft Graph webhooks ·
+[ProtoCore.NET](https://github.com/biswajitpanday/ProtoCore.NET): code-first gRPC boilerplate for .NET 7
